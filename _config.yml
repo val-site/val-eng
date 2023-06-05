@@ -38,15 +38,15 @@ features                                  :
 
   - title                                 : Currency Converter
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : manat-sign
+    fontawesome_icon_name                 : dollar-sign
     
   - title                                 : Cryptocurrency 
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : bitcoin
+    fontawesome_icon_name                 : bitcoin-sign
 
   - title                                 : Commodities
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : corn
+    fontawesome_icon_name                 : oil-well
 
   - title                                 : Wallet
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : Banks [Only Azerbaijan]
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : building-columns
+    fontawesome_icon_name                 : credit-card
   
   - title                                 : Terminal [Only Azerbaijan]
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
