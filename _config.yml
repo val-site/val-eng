@@ -71,7 +71,7 @@ cover_image                               : #assets/headerimage.png             
 cover_overlay_color                       : "#191A1F"
 cover_overlay_transparency                : 1.0
 
-device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : green                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#191A1F"
 
