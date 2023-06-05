@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/LAST_Logo_4%20(1).png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Test
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,28 +36,28 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Currency Converter
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Valyuta Çevirici
+    description                           : Dünya üzrə 150-dən çox valyuta dəstəyi.
     fontawesome_icon_name                 : dollar-sign
     
-  - title                                 : Cryptocurrency 
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : bitcoin-sign
+  - title                                 : Kripto 
+    description                           : Rahat kripto valyuta çeviricisi.
+    fontawesome_icon_name                 : coins
 
-  - title                                 : Commodities
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : oil-well
+  - title                                 : Əmtəə
+    description                           : Ən populyar əmtəə məhsullarının qiymətlərini öyrən.
+    fontawesome_icon_name                 : gas-pump
 
-  - title                                 : Wallet
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Cüzdan
+    description                           : Tətbiq daxilində kredit kartlarını təhlükəsiz saxlamaq imkanı.
     fontawesome_icon_name                 : wallet
 
-  - title                                 : Banks [Only Azerbaijan]
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Banklar [Azərbaycan]
+    description                           : Sərfəli mübadilə kursuna malik olan bankı tap.
     fontawesome_icon_name                 : credit-card
   
-  - title                                 : Terminal [Only Azerbaijan]
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Terminalar [Azərbaycan]
+    description                           : Ödəniş üçün ən yaxın terminalı tap.
     fontawesome_icon_name                 : tv
 
 
@@ -71,7 +71,7 @@ cover_image                               : #assets/headerimage.png             
 cover_overlay_color                       : "#191A1F"
 cover_overlay_transparency                : 1.0
 
-device_color                              : green                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#191A1F"
 
