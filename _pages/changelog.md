@@ -1,19 +1,16 @@
 ---
 layout: page
-title: What's New
+title: Yenilik
 include_in_header: true
 ---
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+## Versiya 2.0 
+Yeni Valyuta. Yeni imkanlar! 
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+#### Yenilik
+- Əmtəə : Ən populyar əmtəə məhsullarının qiymətlərini öyrən.
+- Cüzdan : Tətbiq daxilində kredit kartlarını təhlükəsiz saxlamaq imkanı.
+- Banklar (Azərbaycan) : Sərfəli mübadilə kursuna malik olan bankı tap.
+- Terminalar (Azərbaycan) : Ödəniş üçün ən yaxın terminalı tap.
 
 <br>
